@@ -18,19 +18,13 @@ const CHANNELS = {
   tectv: {
     name: 'TecTV',
     group: 'Públicos Argentina',
-    streamUrl: 'https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8',
+    streamUrl: 'https://www.youtube.com/embed/cb12KmMMDJA?si=4ZaXH_ASf5Y_noQ-&amp;controls=0',
   },
-  tycsport: {
-    name: 'TYC Sports',
+  Los_40: {
+    name: 'Prueba Los 40',
     group: 'Públicos Argentina',
-    streamUrl: 'https://deportes.ksdjugfssddeports.com/playlist/6/index.m3u8',
+    streamUrl: 'http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC',
   },
-  espn2: {
-    name: 'Prueba ESPN',
-    group: 'Públicos Argentina',
-    streamUrl: 'https://5.ftlly.com/espn2/mono.m3u8?token=e3e7cb5d2f2dcd01a4c4eac8231c6fa076683b8f-a4-1792973508-1792955508',
-  },
-
 };
 
 // 2. Sistema de Tokens HMAC-SHA256 (Validez: 3600 segundos / 60 minutos)
