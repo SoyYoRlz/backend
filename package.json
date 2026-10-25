@@ -1,0 +1,26 @@
+{
+  "name": "jokutv-backend",
+  "version": "1.0.0",
+  "description": "Backend API para JokuTV con rotación de tokens HMAC y endpoints para Render.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "iptv",
+    "streaming",
+    "hmac",
+    "render",
+    "express"
+  ],
+  "author": "JokuTV",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
