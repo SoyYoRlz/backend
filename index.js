@@ -28,7 +28,7 @@ const CHANNELS = {
   espn2: {
     name: 'Prueba ESPN',
     group: 'Públicos Argentina',
-    streamUrl: 'https://9.ftlly.com/espn2/mono.m3u8',
+    streamUrl: 'https://5.ftlly.com/espn2/mono.m3u8?token=e3e7cb5d2f2dcd01a4c4eac8231c6fa076683b8f-a4-1792973508-1792955508',
   },
 
 };
