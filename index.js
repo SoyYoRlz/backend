@@ -25,7 +25,11 @@ const CHANNELS = {
     group: 'Públicos Argentina',
     streamUrl: 'https://deportes.ksdjugfssddeports.com/playlist/6/index.m3u8',
   },
-
+  espn2: {
+    name: 'Prueba ESPN',
+    group: 'Públicos Argentina',
+    streamUrl: 'https://9.ftlly.com/espn2/mono.m3u8',
+  },
 
 };
 
